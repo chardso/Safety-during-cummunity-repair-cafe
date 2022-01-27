@@ -15,4 +15,8 @@ These are regulations and procedures intended to prevent accidents or injury dur
 - Only repair mains equipments if you are competent to do so.
 - Be aware of stored high voltage in switched mode power supplies.
 - If you smell burning, immediately unplug at the power plug and then asses the problem with your designated safety volunteer.
+- For any old electrical device always check that the wiring in the mains plug is to good standards.
+- If the device has been shorting out electrical circuits,connect the device only after being certain you have found and corrected the problem.
+- If you have repaired a mains operated item,ensure it is PAT tested before it leaves the premises.
+# cans and chemical safety;
 
