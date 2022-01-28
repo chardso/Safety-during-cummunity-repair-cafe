@@ -19,4 +19,13 @@ These are regulations and procedures intended to prevent accidents or injury dur
 - If the device has been shorting out electrical circuits,connect the device only after being certain you have found and corrected the problem.
 - If you have repaired a mains operated item,ensure it is PAT tested before it leaves the premises.
 # cans and chemical safety;
+- Keep them away from any flame and direct sunlight.
+- Do not spray flameable or volatile liquids on a live circuit or close to soldering iron.
+- Keep chemicals such as solvents far away from other people especially children
+# Covid 19 safety;
+- Every participant wash hands with soap at the entry.
+- Every participant to sanitize on entry.
+- Mask on
+- Sanitize devices before opening.
+Feel free to add your contributions,,,,,# add on and correct where necessary.
 
