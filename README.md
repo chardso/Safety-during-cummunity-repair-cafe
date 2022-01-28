@@ -4,6 +4,7 @@ Safety  is to protect human health and well being.
 - Basic health safety
 - Electrical safety
 - Cans and chemical safety
+- Covid 19 safety
 # basic health safety
 These are regulations and procedures intended to prevent accidents or injury during repair cafe.
 - children must be accompanied all the time by their guardians and kept an appropriate distance from chemicals,soldering and dangerous tools.
