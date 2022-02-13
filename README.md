@@ -30,6 +30,5 @@ These are regulations and procedures intended to prevent accidents or injury dur
 - Sanitize devices before opening.
 Feel free to add your contributions,,,,,
 # add on and correct where necessary.
-assets/images/partner-asknet-log.jpg
 
 
